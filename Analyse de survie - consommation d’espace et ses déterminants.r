@@ -155,8 +155,7 @@ Notre jeu de données initial est constitué de **34918 observations** (communes
 * * *
 
 ```{r}
-setwd("C:/Users/sambt/OneDrive/Bureau/Documents/M2 STD/Analyse de survie/archive")
-data_int <- read.csv("artif_espace.csv", sep=";", header = TRUE)
+data_int <- read.csv("Consommation_espace_2009-2022", sep=";", header = TRUE)
 #head(data_int)
 ```
 

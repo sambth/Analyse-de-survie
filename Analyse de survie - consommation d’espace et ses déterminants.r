@@ -146,7 +146,7 @@ library(survminer)
 
 # Présentation des données
 
-Notre dataset provient du site cerema du gouvernementfFrançais et met en avant l'importance de lutter contre la consommation excessive d'espace, notamment en France et en Europe, pour préserver l'environnement. Ces données regroupent les surfaces qui ont été artificialisés en fonction de la destination des constructions : "activités", "habitat", "mixte" et "inconnu" dans plusieurs communes du territoire français entre 2009 et 2022.
+Notre dataset provient du site cerema du gouvernement Français et met en avant l'importance de lutter contre la consommation excessive d'espace, notamment en France et en Europe, pour préserver l'environnement. Ces données regroupent les surfaces qui ont été artificialisés en fonction de la destination des constructions : "activités", "habitat", "mixte" et "inconnu" dans plusieurs communes du territoire français entre 2009 et 2022.
 
 En utilisant ces données, nous allons mener des études sur la survie des espaces naturels en fonction des différents cas d'utilisation dans l'objectif d'atteindre le "Zéro artificialisation nette" d'ici 2050.
 
